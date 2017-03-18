@@ -1,5 +1,5 @@
 ---
-title: tef.computer
+pagetitle: tef.computer
 ...
 
 # * welcome to tef.computer *
