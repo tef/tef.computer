@@ -9,9 +9,9 @@ I’m looking for lead roles in platform engineering.
 
 I'm pretty good at building resilient, large-scale, distributed systems, but mostly what I bring to a job is two decades of unix trivia and a lot of experience with computer failures. 
 
-I've written programs in Python, Ruby, Bash, Go, Java, JavaScript for money. I tend to end up working on automation, operations, or platform engineering. I usually work above POSIX and behind HTTP, too.
+I've written programs in Python, Ruby, Bash, Go, Java, JavaScript for money. I tend to end up working on automation, operations, or platform engineering. I usually work above POSIX and behind HTTP too.
 
-Email me if you have remote (UK based) roles: tef@cv.twentygototen.org. American Timezones aren't a problem (I have a circadian rhythm disorder).
+Email me if you have remote (UK based) roles: tef@cv.twentygototen.org. Remote work in american timezones isn't a problem, but I'm not looking to leave Europe. 
 
 (I’m currently not interested in Cassandra or Kafka roles).
 
@@ -21,7 +21,7 @@ Earlier this year, 2017, I wrote <a href="https://programmingisterrible.com/post
 
 In 2016, I wrote an essay, <a href="https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to">Write code that is easy to delete, not easy to extend</a>, about how I build systems. 
 
-Finally, back in 2012, I gave a talk called <a href="https://youtube.com/watch?v=csyL9EC0S0c">Programming Is Terrible</a>, and it has been surprisingly popular on YouTube.
+Back in 2012, I gave a talk called <a href="https://youtube.com/watch?v=csyL9EC0S0c">Programming Is Terrible</a>, and it has been surprisingly popular on YouTube.
 
 
 # Abridged Work History
@@ -53,6 +53,8 @@ I got hired four months before a deadline and re-wrote 50% of the product to hit
 My lasting impact was introducing dependency injection, allowing client specific code to be kept away from shared libraries. They had a lot of client specific code.
 
 ## Other roles pre 2011
+
+Mid-level, entry level roles
 
 - 2009-2011, Cloudsoft: A Cloud Services startup. Java. OSGi. 
 
