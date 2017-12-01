@@ -7,7 +7,7 @@
 
 body {
     background: #eeeeee;
-    font-family: "Lucida Sans Unicode", "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", Verdana, Arial, Helvetica, sans-serif;*/
     /*color: #000000;*/
     font-size: 0.9rem;
 }
@@ -15,7 +15,8 @@ i, em {
     font-family: Georgia, serif;
 }
 
-h1 {font-weight: normal; margin-top: 0; font-size: 1.2rem;}
+h1.title {font-weight: normal; margin-top: 0; font-size: 1.6rem;}
+h1 {font-weight: normal; margin-top: 0; font-size: 1.3rem;}
 h2 {font-weight: normal; margin-top: 0; font-size: 1.1rem; }
 h3 {font-weight: normal; margin-top: 0;  font-size: 1rem; }
 
@@ -108,5 +109,10 @@ footer li:last-child:after {
     }
 }
 
-p { -webkit-hyphens: auto; -moz-hyphens: auto; hyphens: auto; }
+
+h1,h2,h3 {  padding-top:1rem;}
+
+p {padding-bottom: 0.2rem;}
+
+p { -webkit-hyphens: none; -moz-hyphens: none; hyphens: none; }
 

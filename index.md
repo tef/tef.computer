@@ -17,7 +17,7 @@ I've written programs in Python, Ruby, Bash, Go, Java, JavaScript for money. I t
 
 (Most recently, I wrote about <a href="https://programmingisterrible.com/post/162346490883/how-do-you-cut-a-monolith-in-half">cutting a monolith in half</a>, about the difficulty of handling state and recovery inside queues)
 
-Email me, if you have remote (UK based) roles: `tef@cv.twentygototen.org`
+Email me, if you have remote (UK based) roles: tef@cv.twentygototen.org
 
 American Timezones aren't a problem (I have a circadian rhythm disorder)
 
@@ -33,7 +33,7 @@ It’s very hard to take credit for the work people built atop yours, but I’m 
 
 ## 2014-2016: Lead Infra Engineer at Heroku (Postgres)
 
-I was on call for over million databases. I worked on the in-house automation system for the database-as-a-service, in a small, then a large team. I have explained the problems with page fragmentation in PostgreSQL more times than I can remember. I removed a lot of race conditions, (more than I added, at least).
+I was on call for over a million databases. I worked on the in-house automation system for the database-as-a-service, in a small, then a large team. I have explained the problems with page fragmentation in PostgreSQL more times than I can remember. I removed a lot of race conditions, (more than I added, at least).
 
 The most substantial piece of code I was responsible for, was a state machine wrapper for recovery processes, that allowed us to write a lot less code and invest in our dashboard & console tooling too. 
 
@@ -53,17 +53,11 @@ My lasting impact was introducing dependency injection, allowing client specific
 
 ## Other roles pre 2011
 
-### 2009-2011: Cloudsoft
+- 2009-2011, Cloudsoft: A Cloud Services startup. Java. OSGi. 
 
-  A Cloud Services startup. Java. OSGi. 
+- 2008-2009, Skyscanner: Replacing a JScript/VB6/XSLT driven web scraping process with python. Still in use today, but the real impact was being able to write code without editing production systems.
 
-### 2008-2009: Skyscanner
-
-  Replacing a JScript/VB6/XSLT driven web scraping process with python. Still in use today, but the real impact was being able to write code without editing production systems.
-
-### 2007: Securetest
-
-  Penetration testing (i.e nmap-to-powerpoint), working on PCI et al compliance, and standard vulnerability testing.
+- 2007, Securetest:  Penetration testing (i.e nmap-to-powerpoint), working on PCI et al compliance, and standard vulnerability testing.
 
 # Miscellaneous
 
