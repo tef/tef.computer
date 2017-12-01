@@ -5,21 +5,17 @@ title: tef.computer
 
 Hello, I am tef. I'm available for hire. I write computer programs. I’ve been an Architect, an SRE, and a Pen-Tester too.
 
-I’m looking for lead roles in platform engineering.
+I’m looking for lead roles in platform engineering. 
 
-I'm pretty good at building resilient, large-scale, distributed systems, but mostly what I bring to a job is two decades of unix trivia and a lot of experience with computer failures.
-
-(I wrote an essay, <a href="https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to">Write code that is easy to delete, not easy to extend</a>, about how I build systems.)
+I'm pretty good at building resilient, large-scale, distributed systems, but mostly what I bring to a job is two decades of unix trivia and a lot of experience with computer failures. 
 
 I've written programs in Python, Ruby, Bash, Go, Java, JavaScript for money. I tend to end up working on automation, operations, or platform engineering. I usually work above POSIX and behind HTTP, too.
 
-(Most recently, I wrote about <a href="https://programmingisterrible.com/post/162346490883/how-do-you-cut-a-monolith-in-half">cutting a monolith in half</a>, about the difficulty of handling state and recovery inside queues)
+I wrote an essay, <a href="https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to">Write code that is easy to delete, not easy to extend</a>, about how I build systems. Most recently, I wrote about <a href="https://programmingisterrible.com/post/162346490883/how-do-you-cut-a-monolith-in-half">cutting a monolith in half</a>, about the difficulty of handling state and recovery inside queues.
 
-Email me, if you have remote (UK based) roles: tef@cv.twentygototen.org
+Email me, if you have remote (UK based) roles: tef@cv.twentygototen.org. American Timezones aren't a problem (I have a circadian rhythm disorder).
 
-American Timezones aren't a problem (I have a circadian rhythm disorder)
-
-(I’m currently not interested in Cassandra or Kafka roles)
+(I’m currently not interested in Cassandra or Kafka roles).
 
 # Abridged Work History
 
