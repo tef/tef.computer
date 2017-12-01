@@ -11,14 +11,13 @@ body {
     /*color: #000000;*/
     font-size: 0.9rem;
 }
-i, em {
+i, em,h1 {
     font-family: Georgia, serif;
 }
 
-h1.title {font-weight: normal; margin-top: 0; font-size: 1.6rem;}
+h1.title {font-weight: normal; margin-top: 0; font-size: 1.6rem; font-family: Georgia, serif;}
 h1 {font-weight: normal; margin-top: 0; font-size: 1.3rem;}
-h2 {font-weight: normal; margin-top: 0; font-size: 1.1rem; }
-h3 {font-weight: normal; margin-top: 0;  font-size: 1rem; }
+h2 {font-weight: normal; margin-top: 0; font-size: 1rem; }
 
 section {
     margin-bottom: 2em;
