@@ -3,9 +3,7 @@ pagetitle: tef.computer
 title: tef.computer
 ...
 
-Hello, I am tef. I'm available for hire. 
-
-I write computer programs. I’ve been an Architect, an SRE, and a Pen-Tester too.
+Hello, I am tef. I'm available for hire. I write computer programs. I’ve been an Architect, an SRE, and a Pen-Tester too.
 
 I’m looking for lead roles in platform engineering.
 
