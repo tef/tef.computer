@@ -11,7 +11,7 @@ I'm pretty good at building resilient, large-scale, distributed systems, but mos
 
 I've written programs in Python, Ruby, Bash, Go, Java, JavaScript for money. I tend to end up working on automation, operations, or platform engineering. I usually work above POSIX and behind HTTP, too.
 
-I wrote an essay, <a href="https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to">Write code that is easy to delete, not easy to extend</a>, about how I build systems. Most recently, I wrote about <a href="https://programmingisterrible.com/post/162346490883/how-do-you-cut-a-monolith-in-half">cutting a monolith in half</a>, about the difficulty of handling state and recovery inside queues.
+I wrote <a href="https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to">Write code that is easy to delete, not easy to extend</a>, about how I build systems. Most recently, I wrote <a href="https://programmingisterrible.com/post/162346490883/how-do-you-cut-a-monolith-in-half">cutting a monolith in half</a>, about the difficulty of handling state and recovery inside queues.
 
 Email me, if you have remote (UK based) roles: tef@cv.twentygototen.org. American Timezones aren't a problem (I have a circadian rhythm disorder).
 
