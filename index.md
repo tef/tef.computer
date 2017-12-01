@@ -25,7 +25,7 @@ Meanwhile with programming, my time is spent speeding up other people’s work. 
 
 It’s very hard to take credit for the work people built atop yours, but I’m going to try.
 
-## 2014-2016: Lead Infra Engineer at Heroku (Postgres)
+## Lead Infra Engineer at Heroku (2014-2016) 
 
 I was on call for over a million databases. I worked on the in-house automation system for the database-as-a-service, in a small, then a large team. I have explained the problems with page fragmentation in PostgreSQL more times than I can remember. I removed a lot of race conditions, (more than I added, at least).
 
@@ -33,13 +33,13 @@ The most substantial piece of code I was responsible for, was a state machine wr
 
 My lasting impact is probably: useful documentation, pushing the team to bring in juniors, and bringing just enough formality into the weekly meeting that it ran to time, every week.
 
-## 2013-2014: Programmer at Code Club (Children's educational non-profit)
+## Programmer at Code Club (2013-2014)
 
 I helped write educational materials for 9-11 year olds across the UK, some of which have been translated and used around the world. I got to teach children how to code at Bletchley park, work with other non-profits, and at one point I ended up dressed up as the Firefox mascot.
 
 My lasting impact is that the course materials were published openly, rather than behind a registration barrier.
 
-## 2011-2013: Architect at Hanzo (Web Archiving)
+## Architect at Hanzo (2011-2013)
 
 I got hired four months before a deadline and re-wrote 50% of the product to hit it. I built a distributed headless browser in QtWebkit, Python, and a lot of boilerplate. 
 
