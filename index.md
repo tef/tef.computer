@@ -17,7 +17,7 @@ Email me if you have remote (UK based) roles: tef@cv.twentygototen.org. American
 
 # Published Works
 
-Earlier this year (2017), I wrote <a href="https://programmingisterrible.com/post/162346490883/how-do-you-cut-a-monolith-in-half">How do you cut a monolith in half?</a>, on the difficulty of handling state and recovery inside queues.
+Earlier this year, 2017, I wrote <a href="https://programmingisterrible.com/post/162346490883/how-do-you-cut-a-monolith-in-half">How do you cut a monolith in half?</a>, on the difficulty of handling state and recovery inside queues.
 
 In 2016, I wrote an essay, <a href="https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to">Write code that is easy to delete, not easy to extend</a>, about how I build systems. 
 
