@@ -48,7 +48,9 @@ My lasting impact is that the course materials were published openly, rather tha
 
 ## Architect at Hanzo (2011-2013)
 
-I got hired four months before a deadline and re-wrote 50% of the product to hit it. I built a distributed headless browser in QtWebkit, Python, and a lot of boilerplate. 
+I got hired four months before a deadline and re-wrote 50% of the product to hit it (a long story). I built a distributed headless browser in QtWebkit, Python, and a lot of boilerplate. It replaced an earlier system using an unmaintained GTK+ port of Webkit and SQS.
+
+While there, I implemented a reference library for the ISO WARC standard, and it's still used occasionally by the Internet Archive today.
 
 My lasting impact was introducing dependency injection, allowing client specific code to be kept away from shared libraries. They had a lot of client specific code.
 
