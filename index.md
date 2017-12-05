@@ -9,13 +9,13 @@ I’m looking for lead roles in platform engineering.
 
 I'm pretty good at building resilient, large-scale, distributed systems, but mostly what I bring to a job is two decades of unix trivia and a lot of experience with computer failures. 
 
-I've written programs in Python, Ruby, Bash, Go, Java, JavaScript for money. I tend to end up working on automation, operations, or platform engineering. I usually work above POSIX and behind HTTP too. 
+I've written programs in Python, Ruby, Bash, Go, Java, and JavaScript for money. I tend to end up working on automation, operations, or platform engineering. I usually work above POSIX and behind HTTP too. 
 
-I understand No Delay isn't an album by Beck, and I can recognize utf-8 encoded as latin-1 at fifty paces. Despite knowing the difference between Serializable and Linearizable I still have to search for 'sql delete syntax'. I understand how constant lookup works in ruby, despite not wanting to.
+I understand 'No Delay' isn't an album by Beck, and I can recognize utf-8 encoded as latin-1 at fifty paces. Despite knowing the difference between Serializable and Linearizable I still have to search for 'sql delete syntax'. I understand how constant lookup works in Ruby, despite not wanting to.
 
-Email me if you have remote (UK based) roles: tef@cv.twentygototen.org. Remote work in american timezones isn't a problem, but I'm not looking to leave Europe. 
+Email me if you have remote (UK based) roles: tef@cv.twentygototen.org. Remote work in American timezones isn't a problem, but I'm not looking to leave Europe. 
 
-(I’m currently not interested in Cassandra or Kafka roles).
+(I’m currently not interested in Cassandra or Kafka roles.)
 
 # Published Works
 
@@ -28,7 +28,7 @@ Back in 2012, I gave a talk called <a href="https://youtube.com/watch?v=csyL9EC0
 
 # Abridged Work History
 
-I spent a lot of time in operations, so a lot of my energy has been spent making sure things *didn’t* happen. 
+I spent a lot of time in operations so a lot of my energy has been spent making sure things *didn’t* happen. 
 
 Meanwhile with programming, my time is spent speeding up other people’s work. Starting with better deployment systems, some bits of documentation, lifting out a good API, and ending with meetings that run to time.
 
