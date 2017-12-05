@@ -30,13 +30,13 @@ Back in 2012, I gave a talk called <a href="https://youtube.com/watch?v=csyL9EC0
 
 I spent a lot of time in operations so a lot of my energy has been spent making sure things *didn’t* happen. 
 
-Meanwhile with programming, my time is spent speeding up other people’s work. Starting with better deployment systems, some bits of documentation, lifting out a good API, and ending with meetings that run to time.
+Meanwhile with programming, my time is spent speeding up other people’s work: starting with better deployment systems, some bits of documentation, lifting out a good API, and ending with meetings that run to time.
 
 It’s very hard to take credit for the work people built atop yours, but I’m going to try.
 
 ## Lead Infra Engineer at Heroku (2014-2016) 
 
-I was on call for over a million databases. I worked on the in-house automation system for the database-as-a-service, in a small, then a large team. I have explained the problems with page fragmentation in PostgreSQL more times than I can remember. I removed a lot of race conditions, (more than I added, at least).
+I was on call for over a million databases. I worked on the in-house automation system for the database-as-a-service, in a small, then a large team. I have explained the problems with page fragmentation in PostgreSQL more times than I can remember. I removed a lot of race conditions (more than I added, at least).
 
 The most substantial piece of code I was responsible for, was a state machine wrapper for recovery processes, that allowed us to write a lot less code and invest in our dashboard & console tooling too. 
 
