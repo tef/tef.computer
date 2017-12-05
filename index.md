@@ -7,7 +7,7 @@ Hello, I'm tef and I'm available for hire. I write computer programs. I’ve wor
 
 I’m looking for lead roles in platform engineering. 
 
-I'm pretty good at building resilient, large-scale, distributed systems, but mostly what I bring to a job is two decades of unix trivia and a lot of experience with computer failures. 
+I'm pretty good at building resilient, large-scale, distributed systems, but mostly what I bring to a job is two decades of Unix trivia and a lot of experience with computer failures. 
 
 I've written programs in Python, Ruby, Bash, Go, Java, and JavaScript for money. I tend to end up working on automation, operations, or platform engineering. I usually work above POSIX and behind HTTP too. 
 
@@ -38,7 +38,7 @@ It’s very hard to take credit for the work people built atop yours, but I’m 
 
 I was on call for over a million databases. I worked on the in-house automation system for the database-as-a-service, in a small, then a large team. I have explained the problems with page fragmentation in PostgreSQL more times than I can remember. I removed a lot of race conditions (more than I added, at least).
 
-The most substantial piece of code I was responsible for, was a state machine wrapper for recovery processes, that allowed us to write a lot less code and invest in our dashboard & console tooling too. 
+The most substantial piece of code I was responsible for was a state machine wrapper for recovery processes that allowed us to write a lot less code and invest in our dashboard & console tooling too. 
 
 My lasting impact is probably: useful documentation, pushing the team to bring in juniors, and bringing just enough formality into the weekly meeting that it ran to time, every week.
 
