@@ -13,7 +13,7 @@ I've written programs in Python, Ruby, Bash, Go, Java, and JavaScript for money.
 
 I understand 'No Delay' isn't an album by Beck, and I can recognize utf-8 encoded as latin-1 at fifty paces. Despite knowing the difference between Serializable and Linearizable I still have to search for 'sql delete syntax'. I understand how constant lookup works in Ruby, despite not wanting to.
 
-Email me if you have remote (UK based) roles: tef@cv.twentygototen.org. Remote work in American timezones isn't a problem, but I'm not looking to leave Europe. 
+Email me if you have remote (UK based) roles: tef@printf.net. Remote work in American timezones isn't a problem, but I'm not looking to leave Europe. 
 
 (I’m currently not interested in Cassandra or Kafka roles.)
 
