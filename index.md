@@ -34,6 +34,12 @@ Meanwhile with programming, my time is spent speeding up other people’s work: 
 
 It’s very hard to take credit for the work people built atop yours, but I’m going to try.
 
+## Database Developer at Lyst (2018-2020)
+
+I oversaw the migration of the product catalog from DynamoDB to Amazon Aurora. A small, internal product team, we oversaw an assortment of services cut out from the original monolith. I handled the migration to Python 3 in my first month, before moving onto migrating between databases, without going offline. 
+
+My lasting impact is probably: choosing JSONB storage, over fiddling with the on-disk layout for an ever-changing schema. Other than that, a number of small victories: unambigious names, avoiding bad defaults, and avoiding a few other foot-guns of software development. 
+
 ## Lead Infra Engineer at Heroku (2014-2016) 
 
 I was on call for over a million databases. I worked on the in-house automation system for the database-as-a-service, in a small, then a large team. I have explained the problems with page fragmentation in PostgreSQL more times than I can remember. I removed a lot of race conditions (more than I added, at least).
